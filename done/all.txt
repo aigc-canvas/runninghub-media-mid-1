@@ -10,9 +10,3 @@ img/90/90ef7ea2308c3ce2.webp
 img/a3/a3ac1f90092a3552.webp
 img/db/dbd9437756b7517a.webp
 img/f3/f30c42dc408a0174.webp
-vid/3c/3c8a26a0df775d7e.mp4
-vid/61/61629421687a9aee.mp4
-vid/6e/6e46c2ec70fb2bce.mp4
-vid/d9/d962303c74db87de.mp4
-vid/ee/ee05166402dca4da.mp4
-vid/f9/f997ea2dc93fabc0.mp4
